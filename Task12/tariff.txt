@@ -1,0 +1,7 @@
+# Runtime tariff configuration
+# Base energy rate in paise per kWh. Peak rate is calculated as 120% of base.
+base_rate_paise_per_kwh=450
+fixed_charge_paise=5000
+peak_start_hour=18
+peak_end_hour=22
+peak_multiplier_percent=120
